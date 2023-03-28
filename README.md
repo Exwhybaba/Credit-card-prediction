@@ -1,4 +1,4 @@
-# Credit-card-prediction
+# Customer churn prediction
 ## Introduction
 
 The manager at the bank is concerned about the increasing number of customers leaving their credit card services. In response to this problem, the bank wants to proactively approach the customers who are likely to churn and provide them with better services to prevent them from leaving. To address this issue, we have obtained a dataset from https://leaps.analyttica.com/home that contains information about 10,000 customers, including their age, salary, marital status, credit card limit, credit card category, and other related features. The aim of this report is to develop a model that can predict which customers are likely to churn.
