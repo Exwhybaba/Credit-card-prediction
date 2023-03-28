@@ -15,7 +15,7 @@ We performed several data preprocessing steps to prepare the data for model buil
 
 ## Model Building and Evaluation:
 
-We used Logistic Regression to predict customer churn, which had an accuracy of 89.921%. This model was able to identify customers who are likely to churn with a high degree of accuracy.
+After evaluating various machine learning algorithms, we found that the KNearest Neigbour algorithm performed the best in predicting which customers are likely to churn. The KNearest Neigbour algorithm had an accuracy of 92.194%, while Logistic Regression had an accuracy of 89.921%
 
 ## Conclusion:
 
